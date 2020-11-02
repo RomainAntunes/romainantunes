@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a new app
-- 🌱 I’m currently learning Python/JavaScript/TypeScript
+- 🔭 I’m currently working on a web app
+- 🌱 I’m currently learning Python/TypeScrip/GraphQl
