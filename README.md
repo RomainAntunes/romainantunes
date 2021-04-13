@@ -10,6 +10,13 @@
 
 </details>
 
+<details> 
+  <summary>My WakaTime Stats</summary>
+  <br />
+  
+  [![Flasssh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flasssh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 Here are some ideas to get you started:
 
