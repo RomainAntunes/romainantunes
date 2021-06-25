@@ -18,6 +18,15 @@
 
 </details>
 
+
+<details> 
+  <summary>My SpeedTyper Results</summary>
+  <br />
+  
+  [<img src="https://api.speedtyper.dev/users/Flasssh/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/Flasssh) [<img src="https://api.speedtyper.dev/users/Flasssh/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/Flasssh) [<img src="https://api.speedtyper.dev/users/Flasssh/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/Flasssh)
+
+</details>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a web app
