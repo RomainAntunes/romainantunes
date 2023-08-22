@@ -15,3 +15,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+📟 What have I done lately
+
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
