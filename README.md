@@ -18,4 +18,4 @@ No activity tracked
 
 📟 What have I done lately
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true, "template": "README.MD"}-->
