@@ -3,7 +3,7 @@
 💻 Global GitHub stats
 
 
-![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Flasssh&theme=dark)
+![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=romainantunes&theme=dark)
 
 ---
 
