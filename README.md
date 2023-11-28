@@ -22,4 +22,4 @@ Docker           0 secs          ░░░░░░░░░░░░░░░�
 
 🖇 Links
 
-[Codingame](https://www.codingame.com/profile/defc3ee5279aecc1bb6114e1f994ea9b3325423)
+[Codingame](https://www.codingame.com/profile/defc3ee5279aecc1bb6114e1f994ea9b3325423) (Top 0.2%)
