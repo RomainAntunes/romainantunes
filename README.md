@@ -7,7 +7,8 @@
 
 ---
 
-📊 Weekly development breakdown
+📊 Weekly development breakdown 
+###### *(only on my freetime)*
 <!--START_SECTION:waka-->
 
 ```txt
