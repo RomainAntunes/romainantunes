@@ -75,14 +75,6 @@ C#                       3 repos             ██░░░░░░░░░�
 PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RomainAntunes/RomainAntunes/master/assets/bar_graph.png)
-
-
- Last Updated on 30/11/2023 21:05:56 UTC
 <!--END_SECTION:wakastats-->
 
 ### 🖇 Links
