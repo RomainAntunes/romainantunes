@@ -17,6 +17,7 @@ jobs:
           DEBUG_LOGGING: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_PROJECTS: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
