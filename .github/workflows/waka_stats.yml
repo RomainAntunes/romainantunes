@@ -13,6 +13,9 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           SECTION_NAME: wakastats
+          SHOW_SHORT_INFO: "False"
+          DEBUG_LOGGING: "False"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
