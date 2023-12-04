@@ -22,7 +22,7 @@
 ###### *(only on my freetime)*
 
 <!--START_SECTION:wakastats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C552%20hrs%2025%20mins-blue)
 
 **I'm an Early 🐤** 
 
