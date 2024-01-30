@@ -6,12 +6,9 @@
 
 💡 My journey began with small apps and game mods, evolving into the development of Discord bots with web applications, managing over 450k users. I've also contributed to the aviation community with smaller bots and developed a robust ticketing system for a game editor.
 
-🌐 With over 8 years of self-taught experience, I've transitioned from PHP beginnings to exploring new horizons.
+🤝 I've made a contribution to open source by translating an app, and I'm eager to increase my involvement in the community. My tech toolkit extends to Java, C#, .NET, Angular, React, Python, Matlab, and Pascal.
 
 🌱 Currently expanding my skills into Rust.
-
-🤝 I've made a contribution to open source by translating an app, and I'm eager to increase my involvement in the community. My tech toolkit extends to C#, .NET, Python, React, Matlab, and Pascal.
-
 
 
 ### 💻 Global GitHub stats
