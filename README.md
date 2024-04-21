@@ -2,6 +2,8 @@
 
 👋 Hello, I'm Romain Antunes, a passionate software developer based in Switzerland. I specialize in Java (Spring Boot, Hibernate, Lombok) and Angular (TypeScript, SCSS, HTML), with a focus on crafting efficient and scalable solutions.
 
+💻 Working on a new open-source toast package for angular
+
 ### 💻 Global GitHub stats
 ![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=romainantunes&theme=dark)
 
