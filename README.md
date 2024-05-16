@@ -12,7 +12,7 @@
 ###### *(only on my freetime)*
 
 <!--START_SECTION:wakastats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -41,13 +41,16 @@ Sunday                   247 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     35 mins             ████████████████████████░   95.55 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 
