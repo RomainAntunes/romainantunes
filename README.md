@@ -5,7 +5,7 @@
 💻 Working on a new open-source toast package for angular
 
 ### 💻 Global GitHub stats
-![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=romainantunes&theme=dark)
+![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=RomainAntunes&theme=dark)
 
 
 ### 📊 Weekly development breakdown 
