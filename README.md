@@ -41,14 +41,13 @@ Sunday                   415 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████░░░░░   78.99 % 
-XML                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
