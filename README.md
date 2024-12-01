@@ -12,8 +12,6 @@
 ###### *(only on my freetime)*
 
 <!--START_SECTION:wakastats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2056%20mins-blue)
-
 
 <!--END_SECTION:wakastats-->
 
