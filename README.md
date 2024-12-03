@@ -41,13 +41,13 @@ Sunday                   416 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-TeX                      3 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
