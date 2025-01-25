@@ -12,7 +12,7 @@
 ###### *(only on my freetime)*
 
 <!--START_SECTION:wakastats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2018%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -41,13 +41,14 @@ Sunday                   416 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               25 mins             █████████████████████████   99.91 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 
