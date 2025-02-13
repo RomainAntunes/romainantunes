@@ -4,16 +4,6 @@
 
 💻 Working on a new open-source toast package for angular
 
-### 💻 Global GitHub stats
-![Romain's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=RomainAntunes&theme=dark)
-
-
-### 📊 Weekly development breakdown 
-###### *(only on my freetime)*
-
-<!--START_SECTION:wakastats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%203%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
