@@ -2,8 +2,6 @@
 
 👋 Hello, I'm Romain Antunes, a passionate software developer based in Switzerland. I specialize in Java (Spring Boot, Hibernate, Lombok) and Angular (TypeScript, SCSS, HTML), with a focus on crafting efficient and scalable solutions.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=RomainAntunes&show_icons=true&count_private=true" />
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
